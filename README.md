@@ -1,9 +1,12 @@
 # NASA_SPACE_APP_CHALLENGE
 NASA Space Apps Challenge: Urban Climate Lens
+
 Team Etoile Noir
+
 Authors: Shashwat & Sameer
 
 🌍 Project Overview
+
 Urban Climate Lens is a data-driven solution developed as part of the NASA Space Apps Challenge. Our goal: map, analyze, and forecast PM2.5 air pollution risk across countries like India and Bangladesh, using NASA satellite data, open AI tools, and advanced forecasting models.
 
 This public notebook and dashboard provide transparent, science-based insights for planners, policy makers, and the global community.
